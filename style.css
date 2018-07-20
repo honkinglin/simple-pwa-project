@@ -1,0 +1,25 @@
+html {
+    line-height: 1.15;
+    /* 1 */
+    -webkit-text-size-adjust: 100%;
+    /* 2 */
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+a {
+    background-color: transparent;
+    text-decoration: none;
+}
+
+button,
+select {
+    text-transform: none;
+}

@@ -1,0 +1,29 @@
+{
+    "sources": [{
+            "id": "abc-news",
+            "name": "ABC News",
+            "description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com.",
+            "url": "http://abcnews.go.com",
+            "category": "general",
+            "language": "en",
+            "country": "us"
+        },
+        {
+            "id": "techcrunch",
+            "name": "TechCrunch",
+            "description": "TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news.",
+            "url": "https://techcrunch.com",
+            "category": "technology",
+            "language": "en",
+            "country": "us"
+        }
+    ],
+    "articles": [{
+        "author": "Oh No",
+        "title": "Dog fails to fetch articles",
+        "description": "try loading the page again when you're online.",
+        "url": "#",
+        "urlToImage": "./images/fetch-dog.jpg",
+        "publishedAt": ""
+    }]
+}

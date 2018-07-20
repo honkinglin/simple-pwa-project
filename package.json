@@ -1,0 +1,15 @@
+{
+  "name": "pwa-project",
+  "version": "1.0.0",
+  "description": "this is a pwa-project",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "lhq",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
